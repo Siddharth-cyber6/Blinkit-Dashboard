@@ -4,3 +4,12 @@ Created an interactive Power BI dashboard for Blinkit to visualize key business 
 
 ## Dataset Used 
 - <a href = "https://github.com/Siddharth-cyber6/Blinkit-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+
+# Process 
+- Collected and imported the Blinkit dataset into Power BI.
+- Cleaned and transformed data using Power Query for consistency and accuracy.
+- Created measures and calculated columns using DAX for key metrics.
+- Built interactive visualizations and KPIs to track performance.
+- Added slicers and filters for dynamic data exploration.
+
+## Dashboard 
