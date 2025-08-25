@@ -13,3 +13,4 @@ Created an interactive Power BI dashboard for Blinkit to visualize key business 
 - Added slicers and filters for dynamic data exploration.
 
 ## Dashboard 
+<img width="1440" height="813" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/df95fd67-ccf7-403b-a7f7-d8aee4a6b6e5" />
