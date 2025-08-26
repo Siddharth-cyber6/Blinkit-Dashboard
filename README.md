@@ -23,4 +23,4 @@ Created an interactive Power BI dashboard for Blinkit to visualize key business 
 - Outlets established around 2018 recorded peak sales compared to other years.
 
 ## Final Conclusion
-To improve Blinkit’s sales performance, focus on strengthening Tier 3 and Tier 2 outlets, as they drive the highest revenue. Enhance product visibility in high-performing categories, such as Fruits and Snacks. Maintain a strong presence of Supermarket Type 1 outlets and explore similar formats in other regions. Targeted marketing strategies should highlight top-selling products and optimize customer engagement in Tier 3 cities.
+To improve Blinkit’s sales performance, focus on strengthening Tier 3 and Tier 2 outlets, as they drive the highest revenue. Enhance product visibility in high-performing categories, such as Fruits and Snacks. Maintain a strong presence of Supermarket Type 1 outlets and explore similar formats in other regions. Targeted marketing strategies should highlight top-selling products and optimize customer engagement in Tier 3 cities.   
