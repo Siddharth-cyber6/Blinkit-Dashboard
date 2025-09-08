@@ -19,7 +19,7 @@ Created an interactive Power BI dashboard for Blinkit to visualize key business 
 - Tier 3 outlets contribute the highest sales revenue, followed by Tier 2 and Tier 1.
 - Regular fat products generate higher revenue than low-fat products.
 - Supermarket Type 1 dominates sales with $787K and the highest number of items sold.
-- Most items sold are from the Fruits, Snack Foods, and Household categories.
+- Most items sold are from the Fruits, Snack Foods, and Household categories.   
 - Outlets established around 2018 recorded peak sales compared to other years.
 
 ## Final Conclusion
