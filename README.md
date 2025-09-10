@@ -8,7 +8,7 @@ Created an interactive Power BI dashboard for Blinkit to visualize key business 
 # Process 
 - Collected and imported the Blinkit dataset into Power BI.
 - Cleaned and transformed data using Power Query for consistency and accuracy.
-- Created measures and calculated columns using DAX for key metrics.
+- Created measures and calculated columns using DAX for key metrics.   
 - Built interactive visualizations and KPIs to track performance.
 - Added slicers and filters for dynamic data exploration.
 
